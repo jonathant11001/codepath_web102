@@ -1,0 +1,11 @@
+#root {
+  margin: 0 auto;
+  min-height: 100rem;
+  font-family: Inter, Avenir, Helvetica, Arial, sans-serif;
+  color: rgb(0,0,125);
+}
+
+body{
+  text-align: center;
+  background-color: rgba(0, 0, 0, .9);
+}
