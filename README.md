@@ -1,36 +1,41 @@
-# Web Development Project 1 - Community Board
+# Web Development Project 2 - Anime Quiz
 
 Submitted by: Jonathan Tam
 
-This web app: Steam top 5 games
+This web app: 10 questions where the questions are emojis and you have to guess the anime
 
-Time spent: 2 hours spent in total
+Time spent: 3 hours spent in total
 
 ## Required Features
 
 The following **required** functionality is completed:
 
-- [X] **There is a unique theme for events or resources relevant to a specific community**
-- [X] **At least 10 unique resources or events are displayed in a responsive card format**
+- [X] **The title of the card set and some information about it, such as a short description and the total number of cards are displayed**
+- [X] **A single card at a time is displayed, only showing one of the components of the information pair**
+- [X] **A list of card pairs is created**
+- [X] **Clicking on the card shows the corresponding component of the information pair**
+- [X] **Clicking the next button displays a random new card**
 
 The following **optional** features are implemented:
 
-- [X] Buttons or links to a related resources are on each card component
-- [X] The site is responsive for both desktop and mobile formats
+- [ ] Cards contains images in addition to or in place of text
+- [ ] Cards have different visual styles such as color based on their category
+  - [X] *visual style implemented*
 
 The following **additional** features are implemented:
 
-* [X] Hover Animation on each card
+* [ ] List anything else that you added to improve the site's functionality!
 
 ## Video Walkthrough
 
 Here's a walkthrough of implemented required features:
 
-Project 1(in public folder of Community Board)
+in my public file of FlashCards
+
 
 ## Notes
 
-Describe any challenges encountered while building the app.
+Had difficulty finding how to use {useStates} but now understand.
 
 ## License
 
