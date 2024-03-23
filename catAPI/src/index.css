@@ -4,7 +4,7 @@
   font-weight: 400;
 
   color-scheme: light dark;
-  background-color: white;
+  background: linear-gradient(to right, #833ab4, #00baad);
 
   font-synthesis: none;
   text-rendering: optimizeLegibility;
