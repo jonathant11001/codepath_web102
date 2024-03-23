@@ -1,37 +1,39 @@
-# Web Development Project 3 - Anime Quiz pt2
+# Web Development Project 4 - CatAPI
 
 Submitted by: Jonathan Tam
 
-This web app: 10 questions where the questions are emojis and you have to guess the anime
+This web app: gives random cat pics with the power to exclude breeds
 
-Time spent: 2 hours spent in total
+Time spent: 3 hours spent in total
+
+## Required Features
 
 ## Required Features
 
 The following **required** functionality is completed:
 
-- [X] **The user can enter their guess in a box before seeing the flipside of the card**
-- [X] **Clicking on a submit button shows visual feedback about whether the answer was correct or incorrect**
-- [X] **A back button is displayed on the card and can be used to return to the previous card in a set sequence**
-- [X] **A next button is displayed on the card and can be used to navigate to the next card in a set sequence**
+- [X] **Clicking a button creates a new API fetch request and displays at least three attributes from the returned JSON data**
+- [X] **Only one item/API call is viewable at a time**
+- [X] **API calls appear random to the user**
+- [X] **At least one image is displayed per API call**
+- [X] **Clicking on a displayed value for one attribute adds it to a displayed ban list**
+- [X] **Attributes on the ban list prevent further images/API results with that attribute from being displayed**
 
 The following **optional** features are implemented:
 
-- [ ] A shuffle button is used to randomize the order of the cards
-- [X] A user's answer may be counted as correct even when it is slightly different from the target answer
-- [ ] A counter displays the user's current and longest streak of correct responses
-- [ ] A user can mark a card that they have mastered and have it removed from the pool of answers as well as added to a list of mastered cards
+- [X] Multiple types of attributes can be added to the ban list
+- [X] Users can see a stored history of their previously viewed items from their session
 
 ## Video Walkthrough
 
 Here's a walkthrough of implemented required features:
 
-in my public file of FlashCards_pt2
+in my public file of CatAPI
 
 
 ## Notes
 
-Used variables other than true/false when using states.
+how to use api for the first time
 
 ## License
 
