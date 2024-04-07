@@ -55,3 +55,33 @@ td{
   border: 1px solid black;
   border-radius: 20px
 }
+
+nav {
+  position: fixed; 
+  top: 0; 
+  right: 0; 
+}
+
+.home-link {
+  background-color: #007bff;
+  color: white;
+  padding: 10px 20px;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+  font-size: 16px;
+  text-decoration: none;
+  transition: background-color 0.3s ease;
+}
+
+.home-link:hover {
+  background-color: #0056b3;
+}
+.description
+{
+  background-color: white;
+  margin: 0 auto;
+  margin-top: 10px;
+  border: 1px solid black;
+  border-radius: 20px
+}
