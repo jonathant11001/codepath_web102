@@ -28,7 +28,7 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='https://imgur.com/a/FNbvmMo.gif' title='WebDev 102 Project 6' width='' alt='WebDev 102 Project 6' />
+<a href="https://imgur.com/a/FNbvmMo"/>
 
 ## Notes
 
