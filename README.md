@@ -1,39 +1,38 @@
-# Web Development Project 4 - CatAPI
+# Web Development Project 6 - WeatherWeb_pt2
 
 Submitted by: Jonathan Tam
 
-This web app: gives random cat pics with the power to exclude breeds
+This web app: gives the weather for the next 12 hours in New York
 
-Time spent: 3 hours spent in total
-
-## Required Features
+Time spent: 5 hours spent in total
 
 ## Required Features
 
 The following **required** functionality is completed:
 
-- [X] **Clicking a button creates a new API fetch request and displays at least three attributes from the returned JSON data**
-- [X] **Only one item/API call is viewable at a time**
-- [X] **API calls appear random to the user**
-- [X] **At least one image is displayed per API call**
-- [X] **Clicking on a displayed value for one attribute adds it to a displayed ban list**
-- [X] **Attributes on the ban list prevent further images/API results with that attribute from being displayed**
+- [X] **The app includes at least one unique chart developed using the fetched data that tell an interesting story**
+- [X] **Clicking on an item in the list view displays more details about it**
+- [X] **Clicking on an item has a direct, unique link to that item's detail view page**
+
 
 The following **optional** features are implemented:
 
-- [X] Multiple types of attributes can be added to the ban list
-- [X] Users can see a stored history of their previously viewed items from their session
+- [ ] The site's customized dashboard contains more content that explains what is interesting about the data
+- [ ] The site allows users to toggle between different data visualizations
+
+The following **additional** features are implemented:
+
+* [ ] List anything else that you added to improve the site's functionality!
 
 ## Video Walkthrough
 
-Here's a walkthrough of implemented required features:
+Here's a walkthrough of implemented user stories:
 
-in my public file of CatAPI
-
+<img src='https://imgur.com/a/FNbvmMo.gif' title='WebDev 102 Project 6' width='' alt='WebDev 102 Project 6' />
 
 ## Notes
 
-how to use api for the first time
+Took a while for me to know how to code out my routes
 
 ## License
 
