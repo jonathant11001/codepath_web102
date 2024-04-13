@@ -9,3 +9,24 @@
   width: 25%;
   height: 25%;
 }
+
+nav {
+  position: fixed; 
+  top: 0; 
+  right: 0;
+  padding: 10px;
+}
+
+nav a {
+  text-decoration: none;
+  color: white;
+  padding: 0 10px;
+  margin-right: 10px;
+}
+
+.ReadCrewmates {
+  display: grid;
+  grid-auto-flow: row;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 15px;
+}

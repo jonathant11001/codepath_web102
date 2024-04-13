@@ -1,8 +1,8 @@
-# Web Development Project 6 - WeatherWeb_pt2
+# Web Development Project 7 - Crewmates
 
 Submitted by: Jonathan Tam
 
-This web app: gives the weather for the next 12 hours in New York
+This web app: creates cremates and saves them in a database using supabase
 
 Time spent: 5 hours spent in total
 
@@ -10,15 +10,18 @@ Time spent: 5 hours spent in total
 
 The following **required** functionality is completed:
 
-- [X] **The app includes at least one unique chart developed using the fetched data that tell an interesting story**
-- [X] **Clicking on an item in the list view displays more details about it**
-- [X] **Clicking on an item has a direct, unique link to that item's detail view page**
-
+- [X] **A create form allows users to add new cremates**
+- [X] **Users can name the crewmate and set the crewmate's attributes by clicking on one of several values**
+- [X] **The site displays a summary page of all the user's added crewmates**
+- [X] **A previously created crewmate can be updated from the crewmate list**
+- [X] **A previously created crewmate can be deleted from the crewmate list**
+- [X] **Each crewmate has a direct, unique link to an info page about them**
 
 The following **optional** features are implemented:
 
-- [ ] The site's customized dashboard contains more content that explains what is interesting about the data
-- [ ] The site allows users to toggle between different data visualizations
+- [ ] A crewmate can be given a category upon creation which restricts their attributes
+- [ ] The site displays summary statistics about a user's crew on their crew page 
+- [ ] The site displays a custom "success" metric about a user's crew which changes the look of the crewmate list
 
 The following **additional** features are implemented:
 
@@ -28,11 +31,11 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-https://imgur.com/a/FNbvmMo
+https://imgur.com/a/WNpsi3Z
 
 ## Notes
 
-Took a while for me to know how to code out my routes
+Supabase was a fun api to use but was very exausting to learn
 
 ## License
 
